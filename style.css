@@ -56,3 +56,23 @@ p{
     width: auto;
     height: 700px;
 }
+
+.card:hover i{
+    color:rgb(0, 0, 0)
+}
+.card:hover h6{
+    color:rgb(0, 0, 0)
+}
+
+.blink {
+  animation: blinker 0.8s step-end infinite;
+  font-size: large;
+  color:maroon;
+  
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
