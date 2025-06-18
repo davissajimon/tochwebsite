@@ -1,0 +1,48 @@
+
+*{
+    font-family: "Lato", sans-serif;
+}
+p{
+    font-family: "Oswald", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.x{
+    inset-block-start: 10px;
+    font-size:x-small;
+    
+    
+}
+#ffh{
+    border-width: 10px 10px;
+}
+.y{
+    position: fixed;        
+}
+    
+.social-icons {
+    display: flex;
+    justify-content:center; 
+    gap: 20px; 
+    margin-top: 10px;
+    margin-right: 200px; 
+  }
+  
+  .social-icons i {
+    font-size: 15px;
+    
+  }
+  
+.container-fluid {
+    cial-icons {
+        display: flex;
+        justify-content:center; 
+        gap: 20px; 
+        margin-top: 10px;
+        margin-right: 200px;
+        inset-block-start: 10px;
+        font-size:x-small;
+        
+    }
+}
